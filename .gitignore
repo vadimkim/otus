@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# otus ignore list
+*/.idea
+*/etc
+*/Lib
+*/Scripts
+*/share
+*/pyvenv.cfg
+
